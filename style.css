@@ -1,0 +1,202 @@
+body {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+
+	background: #737373;
+}
+
+/* https://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg */
+
+.navbar {
+	position: fixed;
+	top: 0; 
+}
+
+}
+
+.menu {
+	float: right;
+	margin: 0px;
+	padding:0px;
+
+}
+
+.menu p {
+	
+}
+
+}
+
+ .menu ul {
+	float: right;
+	list-style-type: none;
+	margin: 0px;
+	padding:0px;
+
+
+}
+
+.menu ul li{
+
+	display: inline-block;
+	background: green;
+	margin: 0px;
+	padding:0px;
+}
+
+a {
+	
+	text-decoration: none;
+}
+
+
+
+
+
+.hero {
+	background: url(https://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg);
+	height: 1800px;
+	width: 100%;
+	background-repeat: no-repeat;
+	text-align: center;
+	margin: 0px;
+
+}
+
+.hero h1 {
+	font-size: 100px;
+	text-align: center;
+	position: relative;
+	top: 400px;
+	
+}
+
+.hero p {
+	position: relative;
+	top: 400px;
+}
+
+.hero a {
+	position: relative;
+	top: 400px;
+
+}
+
+.eng {
+	background: #9acd32;
+	font-size: 18px;
+	text-transform: uppercase;
+	border-radius: 300px;
+	padding: 10px 16px;
+	color: white;
+
+}
+
+.greenbox {
+	text-align: center;
+	background-color: #9acd32;
+}
+
+.whitebox {
+	background-color: white;
+	color: black;
+}
+
+.whitebox h2 {
+	float: right;
+}
+
+.white p {
+	float: right;
+	margin: 0px;
+}
+
+.mi img {
+	margin: 0px;
+	border-radius: 50%;
+}
+
+.ip img {
+	margin: 0px;
+	border-radius: 50%;
+}
+
+.cls {
+	background: #9acd32;
+	font-size: 18px;
+	text-transform: uppercase;
+	border-radius: 300px;
+	padding: 10px 16px;
+	color: white;
+
+}
+
+
+.greybox {
+	background-color: #222;
+}
+
+.tst {
+	background: white;
+	font-size: 18px;
+	text-transform: uppercase;
+	border-radius: 300px;
+	padding: 10px 16px;
+	color: black;
+
+}
+
+.threeimg ul li {
+	list-style-type: none;
+	background-color: white;
+
+}
+
+.threeimg a {
+	
+}
+
+.item1, .item2, .item {
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
+.item1 {
+	background: url(https://www.quackit.com/html/templates/download/bootstrap/business-2/images/writing.jpg);
+}
+
+.item2 {
+	background: url(https://www.quackit.com/html/templates/download/bootstrap/business-2/images/concert.jpg);
+}
+
+.item3 {
+	background: url(https://www.quackit.com/html/templates/download/bootstrap/business-2/images/pencil_sharpener.jpg);
+}
+
+.sanity {
+	background-color: white;
+	text-align: center;
+	color: black;
+
+}
+
+.chk {
+	background: #9acd32;
+	font-size: 18px;
+	text-transform: uppercase;
+	border-radius: 300px;
+	padding: 10px 16px;
+	color: white;
+
+}
+
+.contact {
+	background-color: #9acd32;
+	text-align: center;
+}
+
+.feet {
+	background-color: white;
+	text-align: center;
+	color: #b8b8b8;
+}
